@@ -20,7 +20,7 @@ public class FluxoComTratamento {
 
     private static void metodo2() {
         System.out.println("Ini do metodo2");
-        throw new MinhaExcecao("deu errado");
+        //throw new MinhaExcecao("deu errado");
         
         //System.out.println("Fim do metodo2");
     }
